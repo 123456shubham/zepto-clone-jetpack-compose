@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137530522914",
+    "project_id": "groceryapp-4a0b6",
+    "storage_bucket": "groceryapp-4a0b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137530522914:android:4b0c09145a87994319f97b",
+        "android_client_info": {
+          "package_name": "com.example.zepto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD99R6SGh9ToYbwIVEe_EdWycPMgsz8Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
